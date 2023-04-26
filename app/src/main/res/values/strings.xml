@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">C346_L02</string>
+    <string name="welcome_to_android">Welcome to android!</string>
+    <string name="button">Button</string>
+    <string name="m1">Welcome to Android!</string>
+    <string name="L1">Large Text</string>
+    <string name="B1">Button 1</string>
+    <string name="B2">Button 2</string>
+</resources>
